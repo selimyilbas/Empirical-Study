@@ -28,6 +28,8 @@ The study includes the following sorting algorithms:
 
 ***Video Demonstration:*** Includes a video showcasing the sorting process and results.
 
+![Algoritthms](https://github.com/user-attachments/assets/6309a873-a13f-474a-a31e-75ba6a508cd8)
+
 
 ## How to Run the Project
 # 1. Clone the Repository
