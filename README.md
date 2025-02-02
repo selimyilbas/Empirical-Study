@@ -1,9 +1,9 @@
-#Empirical Study on Sorting Algorithms
+# Empirical Study on Sorting Algorithms
 
 This project is a detailed empirical study comparing the performance of six sorting algorithms implemented in Python. The study evaluates their execution times 
 for varying input sizes and produces an Excel file and a performance comparison chart. The project also includes a video demonstration.
 
-##Project Description
+## Project Description
 The study includes the following sorting algorithms:
 
 ***Bubble Sort:*** A basic sorting algorithm that compares adjacent elements and swaps them if they are in the wrong order.
@@ -14,14 +14,14 @@ The study includes the following sorting algorithms:
 ***Improved Quick Sort:*** Combines Quick Sort with Selection Sort for small input sizes to enhance performance.
 
 
-##Features
+## Features
 Performance Analysis: Measures execution times for different input sizes.
 Excel Output: Saves results in an Excel file for further analysis.
 Chart Visualization: Creates a line chart comparing execution times of the algorithms.
 Video Demonstration: Includes a video showcasing the sorting process and results.
 
 
-##How to Run the Project
+## How to Run the Project
 #1. Clone the Repository
 Open a terminal and run:
 
@@ -30,7 +30,7 @@ git clone https://github.com/selimyilbas/Empirical-Study.git
 cd Empirical-Study
 ```
 
-#2. Install Dependencies
+# 2. Install Dependencies
 Make sure you have Python installed. Then, install the required library:
 
 ```
@@ -38,7 +38,7 @@ pip install pandas
 
 ```
 
-#3. Run the Script
+# 3. Run the Script
 Run the main Python script to measure execution times and generate results:
 
 ```
@@ -46,7 +46,7 @@ python algorithms.py
 ```
 
 
-#Expected Output
+# Expected Output
 
 Console Output:
 Execution times for each algorithm and input size are printed.
@@ -59,7 +59,7 @@ Average time for BubbleSort with 100 elements: 0.002041 seconds
 ```
 
 
-#Auto Generated Files:
+# Auto Generated Files:
 
 ***sorting_algorithms_performance.xlsx***: Contains execution times for all algorithms.
 
