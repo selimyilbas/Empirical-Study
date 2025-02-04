@@ -1,3 +1,12 @@
+![GitHub contributors](https://img.shields.io/github/contributors/selimyilbas/Secure-Vault)
+![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen)
+![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Windows%20%7C%20Linux-lightgrey)
+![Python](https://img.shields.io/badge/python-3.10-blue)
+![GitHub Repo Size](https://img.shields.io/github/repo-size/selimyilbas/Secure-Vault)
+![GitHub last commit](https://img.shields.io/github/last-commit/selimyilbas/Secure-Vault)
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+![Tech Stack](https://img.shields.io/badge/tech-stack-blueviolet)
+
 # Empirical Study on Sorting Algorithms
 
 This project is a detailed empirical study comparing the performance of six sorting algorithms implemented in Python. The study evaluates their execution times 
