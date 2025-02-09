@@ -4,7 +4,7 @@
 ![Python](https://img.shields.io/badge/python-3-blue)
 ![GitHub Repo Size](https://img.shields.io/github/repo-size/selimyilbas/Empirical-Study)
 ![GitHub last commit](https://img.shields.io/github/last-commit/selimyilbas/Empirical-Study)
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+![Build Status](https://img.shields.io/badge/build-passing-brightyellow)
 ![Tech Stack](https://img.shields.io/badge/tech-stack-lightblue)
 
 # Empirical Study on Sorting Algorithms
